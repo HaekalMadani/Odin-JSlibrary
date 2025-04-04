@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0
+}
+
+.container{
+    display: grid;
+    grid-template-rows: 1fr 1fr 6fr;
+}
+
+.header{
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+
+.interact{
+    background-color: #e9ecef;
+    padding: 20px;
+    text-align: center;
+}
+
+.books{
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
